@@ -4,9 +4,9 @@ import ibmiotf.application
 import ibmiotf.device
 import random
 #Provide your IBM Watson Device Credentials
-organization = "6prp7r"
-deviceType = "WEARABLESMARTBAND"
-deviceId = "wsb123"
+organization = "ytissp"
+deviceType = "raspberrypi"
+deviceId = "12345678"
 authMethod = "token"
 authToken = "12345678"
 
